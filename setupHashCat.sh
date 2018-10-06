@@ -1,1 +1,1 @@
-sudo aot install hashcat
+sudo apt install hashcat
