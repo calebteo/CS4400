@@ -1,1 +1,1 @@
-hashcat -m 1800 -O ~/code/Crack2/SHA512.hashes -o ~/code/Crack2/SHA512.broken -a 3 -1 ?l -2 ?l  ?1?2?2?2?2
+hashcat -m 10900 -O ~/code/Crack2/new.hashes -o ~/code/Crack2/SHA256-PB-alpha.broken -w 4 -a 3 ?l?l?l?l?l
