@@ -1,3 +1,4 @@
+cd ..
 mkdir John
 cd John
 git init
