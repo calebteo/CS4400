@@ -1,3 +1,2 @@
-hashcat -m 10900 -O ~/teamgit/cs7ns1/layer9/pb.hashes -o ~/teamgit/cs7ns1/layer9/pbkdf_1.pot -w 3 -a 0 ~/c_Alnum1
-hashcat -m 10900 -O ~/teamgit/cs7ns1/layer9/pb.hashes -o ~/teamgit/cs7ns1/layer9/pbkdf_2.pot -w 3 -a 0 ~/c_Alnum2
-hashcat -m 10900 -O ~/teamgit/cs7ns1/layer9/pb.hashes -o ~/teamgit/cs7ns1/layer9/pbkdf_3.pot -w 3 -a 0 ~/c_Alnum3
+hashcat -m 12000 -O ~/teamgit/cs7ns1/layer9/sha1_hc.hashes -o ~/teamgit/cs7ns1/layer9/sha1_7.pot -w 3 -a 0 ~/c_Alnum7
+hashcat -m 12000 -O ~/teamgit/cs7ns1/layer9/sha1_hc.hashes -o ~/teamgit/cs7ns1/layer9/sha1_8.pot -w 3 -a 0 ~/c_Alnum8
