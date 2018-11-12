@@ -1,4 +1,4 @@
-jq .hashes layer2.json > hashes.txt
+jq .hashes layer4.json > hashes.txt
 sed 's/[\"]//g' hashes.txt > noQuotes.txt
 sed 's/.$//g' noQuotes.txt > noCommas.txt
 sed 's/..//' noCommas.txt > password.hashes
